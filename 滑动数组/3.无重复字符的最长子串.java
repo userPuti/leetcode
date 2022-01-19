@@ -1,3 +1,5 @@
+package 滑动数组;
+
 import java.util.HashMap;
 
 /*

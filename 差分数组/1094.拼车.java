@@ -1,4 +1,4 @@
-package 查分数组;
+package 差分数组;
 /*
  * @lc app=leetcode.cn id=1094 lang=java
  *
