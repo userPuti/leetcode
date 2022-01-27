@@ -1,7 +1,5 @@
 package 括号问题;
 
-import java.util.Stack;
-
 /*
  * @lc app=leetcode.cn id=921 lang=java
  *
