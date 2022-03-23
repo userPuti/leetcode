@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch test",
             "request": "launch",
+            "mainClass": "测试.test",
+            "projectName": "leetcode_17974a0f"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
             "mainClass": "test",
             "projectName": "leetcode_17974a0f"
         },
