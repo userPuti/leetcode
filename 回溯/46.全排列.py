@@ -14,7 +14,7 @@ class Solution:
 
         def backtrack(nums: List[int], tmp: List[int]):
             if not nums:
-                res.append(tmp)
+                res.append(list(tmp))
                 return
 
             for i in range(len(nums)):
